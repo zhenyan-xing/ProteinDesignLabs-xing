@@ -52,6 +52,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [Yale University](#yale-university)
     - [University of Oregon](#university-of-oregon)
     - [Upenn](#Upenn)
+    - [Rice University](#Rice-University)
   - [:canada: Canada](#canada-canada)
     - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
     - [University of Toronto](#university-of-toronto)
@@ -787,6 +788,13 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 <summary>Pranam D. Chatterjee</summary>
 
 - Lab website: [Link](https://www.chatterjeelab.com/)
+</details>
+
+### Rice University
+<details>
+<summary>linna An</summary>
+
+- Lab website: [Link](https://lanalchemist.github.io/)
 </details>
 
 ## :canada: Canada
