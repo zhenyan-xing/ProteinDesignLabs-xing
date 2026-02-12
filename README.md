@@ -51,6 +51,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [Vanderbilt University](#vanderbilt-university)
     - [Yale University](#yale-university)
     - [University of Oregon](#university-of-oregon)
+    - [Upenn](#Upenn)
   - [:canada: Canada](#canada-canada)
     - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
     - [University of Toronto](#university-of-toronto)
@@ -470,12 +471,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 </details>
 
 <details>
-<summary>Pranam D. Chatterjee</summary>
-
-- Lab website: [Link](https://www.chatterjeelab.com/)
-</details>
-
-<details>
 <summary>Alexander Tong</summary>
 
 - Lab website: [Link](https://www.alextong.net/)
@@ -786,6 +781,13 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.parisahlab.org/)
 </details>
 
+### Upenn
+
+<details>
+<summary>Pranam D. Chatterjee</summary>
+
+- Lab website: [Link](https://www.chatterjeelab.com/)
+</details>
 
 ## :canada: Canada
 
