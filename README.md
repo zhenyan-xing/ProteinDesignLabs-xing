@@ -77,16 +77,8 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [Leipzig University](#leipzig-university)
     - [University of Bayreuth](#university-of-bayreuth)
 - [#Asia](#asia)
-  - [:jp: Japan](#jp-japan)
-    - [Tokyo University](#tokyo-university)
   - [:singapore: Singapore](#singapore-singapore)
     - [National University of Singapore](#national-university-of-singapore)
-  - [:kr: South Korea](#kr-south-korea)
-    - [Seoul National University](#seoul-national-university)
-    - [KAIST](#kaist)
-    - [POSTECH](#postech)
-    - [IBS](#ibs)
-    - [KIST](#kist)
   - [:hong\_kong: Hong Kong](#hong_kong-hong-kong)
     - [Chinese University of Hong Kong](#chinese-university-of-hong-kong)
     - [HKUST](#hkust)
@@ -998,19 +990,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 
 ## #Asia
 
-## :jp: Japan
-
-### Tokyo University
-
-<details>
-<summary>Kotaro Tsuboyama</summary>
-
-- Lab website: [Link](https://sites.google.com/view/tsubo-lab/home)
-- Related papers:
-  - [Mega-scale mutation scanning](https://www.nature.com/articles/s41586-023-06328-6)
-</details>
-
-
 
 ## :singapore: Singapore
 
@@ -1026,64 +1005,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [EvoEF2](https://academic.oup.com/bioinformatics/article/36/4/1135/5582267)
 </details>
 
-## :kr: South Korea
-
-### Seoul National University
-
-<details>
-<summary>Martin Steinegger</summary>
-
-- Lab website: [Link](https://steineggerlab.com/en/)
-</details>
-
-<details>
-<summary>Minkyung Baek</summary>
-
-- Lab website: [Link](https://biosci.snu.ac.kr/en/people/faculty?mode=view&profidx=101)
-</details>
-
-
-### KAIST
-
-<details>
-<summary>Ji-Joon Song</summary>
-
-- Lab website: [Link](https://www.song-kaist.org)
-</details>
-
-
-<details>
-<summary>Byung-Ha Oh</summary>
-
-- Lab website: [Link](https://sites.google.com/view/tpdsb/home?authuser=0)
-</details>
-
-
-### POSTECH
-
-<details>
-<summary>Sangmin Lee</summary>
-
-- Lab website: [Link](https://sites.google.com/view/pdl-postech)
-</details>
-
-
-### IBS
-
-<details>
-<summary>Ho Min Kim</summary>
-
-- Lab website: [Link](https://protein.ibs.re.kr/people/chief-investigator)
-</details>
-
-
-### KIST
-
-<details>
-<summary>Keunwan Park</summary>
-
-- Lab website: [Link](https://sites.google.com/site/keunwan/home?authuser=0)
-</details>
 
 ## :hong_kong: Hong Kong
 
